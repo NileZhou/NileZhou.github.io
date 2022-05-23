@@ -1,8 +1,11 @@
 baseurl: https://nilezhou.github.io/
 languageCode: zh-cn
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Nile Dream
 
 languages:
     en:
